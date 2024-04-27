@@ -26,15 +26,27 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, among o
 
 ## Currently in-progress
 <details>
-  <summary>Potential Spoilers!</summary>
+  <summary>#ROADMAP:</summary>
   
   * Working on implementing bows and throwing weapons, such as kunais and shurikens. 
   * Elaborate a progressive balance for weapons, as well as their damage and the resources they ask for
 
 </details>
 
-## PrefabId
+### ShounEra Imagen.
 
+![All ](https://i.imgur.com/LvWeXGY.png)
+
+![All WEAPONS ](https://i.imgur.com/ax1fPOd.png)
+
+![WEAPONS](https://i.imgur.com/GDIcYs5.png)
+
+![WEAPONS](https://i.imgur.com/XeXGyLh.png)
+
+![WEAPONS](https://i.imgur.com/RHeahf7.png)
+
+
+**--WEAPON PREFABS--**
 ```
 Bokken------SE_Bokken
 Bō------------SE_BO
@@ -57,9 +69,10 @@ Katana negra-------SE_KatanaDefuego
 Katana Yuki-onna ------ SE_Katanadehielo
 Bebedora de sangre--------SE_KatanaMurasama1
 Katana Musashi----------Se_katanamusashi
+```
 
-
-//Cascos
+**--HELMET PREFABS--**
+```
 Casco samurai negro con plateado------- SE_CiberHat
 Hannya------------- SE_HannyaMask
 Jingasa-------------SE_HatJingasa 
