@@ -3,6 +3,8 @@ using Jotunn.Entities;
 using Jotunn.Managers;
 using UnityEngine;
 using Logger = Jotunn.Logger;
+using ShogunEra.Effects;
+using System.Collections.Generic;
 
 namespace ShogunEra
 {
@@ -262,6 +264,18 @@ namespace ShogunEra
             BebedoradesangreConfig.Icon = RenderManager.Instance.Render(BebedoradesangrePrefab, RenderManager.IsometricRotation);
             var Bebedoradesangre = new CustomItem(BebedoradesangrePrefab, fixReference: true, BebedoradesangreConfig);
             ItemManager.Instance.AddItem(Bebedoradesangre);
+
+            // Robo de vida
+            var lifeStealEffect = ScriptableObject.CreateInstance<SE_LifeSteal>();
+            lifeStealEffect.m_name = "Life Steal";
+            lifeStealEffect.m_chanceToStealLife = 0.15f; // 15% de probabilidad
+            lifeStealEffect.m_lifeStealMin = 0.1f; // Roba mínimo un 10% de la vida
+            lifeStealEffect.m_lifeStealMax = 0.3f; // Roba máximo un 30% de la vida
+            var customLifeStealEffect = new CustomStatusEffect(lifeStealEffect, fixReference: false);
+            ItemManager.Instance.AddStatusEffect(customLifeStealEffect);
+            Bebedoradesangre.ItemDrop.m_itemData.m_shared.m_equipStatusEffect = customLifeStealEffect.StatusEffect;
+            Bokken.ItemDrop.m_itemData.m_shared.m_equipStatusEffect = customLifeStealEffect.StatusEffect;
+
 
             // Agregar otro ítem llamado "Kanata Musashi"
             ItemConfig KanataMusashiConfig = new ItemConfig();
