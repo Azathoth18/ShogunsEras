@@ -16,10 +16,12 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, among o
 * Finally my thanks may seem exaggerated, but it's really something I've been wanting to learn for a long time and if it wasn't for these people none of this would be possible. 
 
 
-[![discord logo](https://i.imgur.com/uE6umQE.png)](https://discord.gg/MWx8GkDgPG)
+[![discord logo](https://i.imgur.com/uE6umQE.png)](https://discord.gg/Mj9y2w6w2B)
 
 ## Translations
--Currently only Spanish localisation is available
+-Spanish
+-English
+-German
 
 ## Configuration
 -I am still learning to provide a more convenient configuration option, for the moment I recommend using * [WackyDatabase](https://valheim.thunderstore.io/package/WackyMole/WackysDatabase/) to generate your own configurations.
@@ -29,7 +31,10 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, among o
   <summary>#ROADMAP:</summary>
   
   * Working on implementing bows and throwing weapons, such as kunais and shurikens. 
-  * Elaborate a progressive balance for weapons, as well as their damage and the resources they ask for
+  * <p>Elaborate a progressive balance for weapons, as well as their damage and the resources they ask for<p>
+  * Configure helmets by era 
+  * Add more armors with their respective recipes, resistances, and effects  
+  
 
 </details>
 
@@ -37,7 +42,7 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, among o
 
 ![All ](https://i.imgur.com/LvWeXGY.png)
 
-![All WEAPONS ](https://i.imgur.com/ax1fPOd.png)
+![All WEAPONS](https://i.imgur.com/ax1fPOd.png)
 
 ![WEAPONS](https://i.imgur.com/GDIcYs5.png)
 
@@ -45,61 +50,106 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, among o
 
 ![WEAPONS](https://i.imgur.com/RHeahf7.png)
 
+![Armour](https://i.imgur.com/QHlapY7.png)
+![Armour](https://i.imgur.com/bX7dllS.png)
+![Armour](https://i.imgur.com/8GWSEkc.png)
+
 
 **--WEAPON PREFABS--**
 ```
-Bokken------SE_Bokken
-Bō------------SE_BO
-Shinai--------SE_Shinai
-Katana ------SE_Katana1
-Nagatina----SE_NAGATINA
-Ninjato------SE_NINJATO
-Tanto--------SE_TantoKnife
-Shakujo-----SE_Shakujo
-Kamayari----SE_Kamayari
-Kanobo------SE_Kanobo
-Katana2------SE_Katana2
-Katana dorada----SE_KatanaDefuego1
-Katana Valkye----SE_KATANAVALKYRIE
-Sai-------------SE_SAI
-Katana de las nubes-------SE_KatanadelCielo
-Katana Sakura-------SE_katana3
-Katana de un gigante------SE_gigantekatana
-Katana negra-------SE_KatanaDefuego
-Katana Yuki-onna ------ SE_Katanadehielo
-Bebedora de sangre--------SE_KatanaMurasama1
-Katana Musashi----------Se_katanamusashi
+Bokken------SER_Bokken
+Bō------------SER_BO
+Shinai--------SER_Shinai
+Katana ------SER_Katana1
+Nagatina----SER_NAGATINA
+Ninjato------SER_NINJATO
+Tanto--------SER_TantoKnife
+Shakujo-----SER_Shakujo
+Kamayari----SER_Kamayari
+Kanobo------SER_Kanobo
+Katana2------SER_Katana2
+Katana dorada----SER_KatanaDefuego1
+Katana Valkye----SER_KATANAVALKYRIE
+Sai-------------SER_SAI
+Katana de las nubes-------SER_KatanadelCielo
+Katana Sakura-------SER_katana3
+Katana de un gigante------SER_gigantekatana
+Katana negra-------SER_KatanaDefuego
+Katana Yuki-onna ------ SER_Katanadehielo
+Bebedora de sangre--------SER_KatanaMurasama1
+Katana Musashi----------SER_katanamusashi
+
+**Nuevas**
+
+Shinken Kurogane-----------SER_ShinkenKurogane
+Ryūsei Kurogane------------SER_RyuseiKurogane
+Ikazuchi Ryūsei------------SER_IkazuchiRyusei
+Shizen Ryūsei-------------SER_ShizenRyusei
+Chishio Ryūsei------------SER_ChishioRyusei
+Ryuusei no Kanabō--------SER_RyuuseinoKanobo
+Chi no Kanobō--------------SER_ChinoKanobo
+Inazuma no Kanobō---------SER_InazumanoKanobo
+Kigen no Kanobō-----------SER_KigennoKanobo
+
 ```
 
 **--HELMET PREFABS--**
 ```
-Casco samurai negro con plateado------- SE_CiberHat
-Hannya------------- SE_HannyaMask
-Jingasa-------------SE_HatJingasa 
-Mempo --------SE_MempoMask 
-Casco Samurai negro con correas----SE_SamuraiHelmetKabuto 
-Casco Kabuto -----SE_SamuraiKabuto 
-Casco Samurai rojo con negro----------SE_SamuraiKabuto1 
-Kabuto Samurai---------SE_SamuraiKabutoBlack 
-Kabuto con astas-------SE_SamuraiKabutomabizashi 
-Tengou ------SE_TengouMask
+Casco samurai negro con plateado------- SER_CiberHat
+Hannya------------- SER_HannyaMask
+Jingasa-------------SER_HatJingasa 
+Mempo --------SER_MempoMask 
+Casco Samurai negro con correas----SER_SamuraiHelmetKabuto 
+Casco Kabuto -----SER_SamuraiKabuto 
+Casco Samurai rojo con negro----------SER_SamuraiKabuto1 
+Kabuto Samurai---------SER_SamuraiKabutoBlack 
+Kabuto con astas-------SER_SamuraiKabutomabizashi 
+Tengou ------SER_TengouMask
+Komuso -----SER_Komuso
+Caso Samurai con pelo -----------SER_CascoSamuraiConpelo
+Sabio Shifu---------SER_sabioshifu
+Kabuto negro------KabutoBlack
+Kabuto Rojo-------KabutoRed
+```
+**--Armour PREFABS--**
+```
+ Suneate Rojo-----SuneateRed
+ Suneate Negro-----Suneate
+ Yoroi Negro------YoroiBlack
+ Yoroi Rojo-------YoroiRed 
 ```
 
 ## Changelog
 
 <details>
-  <summary>Changelog (Potential spoilers!)</summary>
+  <summary>Changelog</summary>
 
-  **1.0.0**
-```
-- First launch 
+  <summary>1.0.4</summary>
+           ° Se agregaron 1 armadura ninja, 2 mascaras y cascos, 5 katanas (ashland tier) 4 kanobos (ashland tier)
+           ° Se cambiaron los requisitos de crafting de algunas armas (reubicadas en la forja)
+           ° Se agregaron 1 armadura de Ronin y de Hakama 
+           ° Aun falta configurar y asignar un tier con un sentido de progreso a las armaduras 
+           ° Added 1 ninja armor, 2 masks and helmets, 5 katanas (ashland tier) 4 kanobos (ashland tier)
+           ° Changed crafting requirements of some weapons (relocated to the forge)
+           ° Added 1 Ronin armor and 1 Hakama armor 
+           ° Still need to configure and assign a tier with a sense of progress to armors 
+  
 
-```
-  **1.0.1**
+   <summary>1.0.3</summary>
 
-  ```
-  - Added katana recipes and a sense of progress with corresponding damage
+  - Added English translations and corrected the Spanish ones.
+  - 4 new helmets and 2 armors were added (without assigning an era, damage, or description).
+
+  <summary>1.0.2</summary>
+
+  - Updated for Ashland.
+  - Added language settings; English and German added (credits to Blubbson)
+  - Some visual effects were added to the weapons.
+
+  <summary>1.0.1</summary>
+
+  - Added katana recipes and a sense of progress with corresponding damage.
   - Added oriental themed helmets and masks
   - Updated the prefabs of each weapon and mask
-  - Thank you Midnightsfx for all you have taught again and above all for your patience 
   ```
+
