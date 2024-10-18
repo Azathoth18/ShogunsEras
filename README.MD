@@ -40,19 +40,19 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, among o
 
 ## ShounEra Imagen.
 
-![All ](https://i.imgur.com/LvWeXGY.png)
+ ![All ](https://i.imgur.com/LvWeXGY.png)
 
-![All WEAPONS](https://i.imgur.com/ax1fPOd.png)
+ ![All WEAPONS](https://i.imgur.com/ax1fPOd.png)
 
-![WEAPONS](https://i.imgur.com/GDIcYs5.png)
+ ![WEAPONS](https://i.imgur.com/GDIcYs5.png)
 
-![WEAPONS](https://i.imgur.com/XeXGyLh.png)
+ ![WEAPONS](https://i.imgur.com/XeXGyLh.png)
 
-![WEAPONS](https://i.imgur.com/RHeahf7.png)
+ ![WEAPONS](https://i.imgur.com/RHeahf7.png)
 
-![Armour](https://i.imgur.com/QHlapY7.png)
-![Armour](https://i.imgur.com/bX7dllS.png)
-![Armour](https://i.imgur.com/8GWSEkc.png)
+ ![Armour](https://i.imgur.com/QHlapY7.png)
+ ![Armour](https://i.imgur.com/bX7dllS.png)
+ ![Armour](https://i.imgur.com/8GWSEkc.png)
 
 
 **--WEAPON PREFABS--**
@@ -136,7 +136,7 @@ Kabuto Rojo-------KabutoRed
   - Still need to configure and assign a tier with a sense of progress to armors 
   
 
-   <summary>1.0.3</summary>
+  <summary>1.0.3</summary>
 
   - Added English translations and corrected the Spanish ones.
   - 4 new helmets and 2 armors were added (without assigning an era, damage, or description).
@@ -153,3 +153,5 @@ Kabuto Rojo-------KabutoRed
   - Added oriental themed helmets and masks
   - Updated the prefabs of each weapon and mask
   ```
+
+
