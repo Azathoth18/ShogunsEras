@@ -125,14 +125,15 @@ Kabuto Rojo-------KabutoRed
   <summary>Changelog</summary>
 
   <summary>1.0.4</summary>
-           ° Se agregaron 1 armadura ninja, 2 mascaras y cascos, 5 katanas (ashland tier) 4 kanobos (ashland tier)
-           ° Se cambiaron los requisitos de crafting de algunas armas (reubicadas en la forja)
-           ° Se agregaron 1 armadura de Ronin y de Hakama 
-           ° Aun falta configurar y asignar un tier con un sentido de progreso a las armaduras 
-           ° Added 1 ninja armor, 2 masks and helmets, 5 katanas (ashland tier) 4 kanobos (ashland tier)
-           ° Changed crafting requirements of some weapons (relocated to the forge)
-           ° Added 1 Ronin armor and 1 Hakama armor 
-           ° Still need to configure and assign a tier with a sense of progress to armors 
+  
+  - Se agregaron 1 armadura ninja, 2 mascaras y cascos, 5 katanas (ashland tier) 4 kanobos (ashland tier)
+  - Se cambiaron los requisitos de crafting de algunas armas (reubicadas en la forja)
+  - Se agregaron 1 armadura de Ronin y de Hakama 
+  - Aun falta configurar y asignar un tier con un sentido de progreso a las armaduras 
+  - Added 1 ninja armor, 2 masks and helmets, 5 katanas (ashland tier) 4 kanobos (ashland tier)
+  - Changed crafting requirements of some weapons (relocated to the forge)
+  - Added 1 Ronin armor and 1 Hakama armor 
+  - Still need to configure and assign a tier with a sense of progress to armors 
   
 
    <summary>1.0.3</summary>
@@ -152,4 +153,3 @@ Kabuto Rojo-------KabutoRed
   - Added oriental themed helmets and masks
   - Updated the prefabs of each weapon and mask
   ```
-
