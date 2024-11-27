@@ -1,11 +1,12 @@
 # ShogunEra
 A mod about japanese weapons, there are katanas, daggers, maces, spears, among others.
--The weapons are unbalanced, and the idea is that each person can configure them as they see fit. 
--It's my first mod, so it may contain some mistakes :c, also I'm in a constant learning process.
--It's part of a bigger mod that will add a lot of theme weapons to be used in the Chaos Heim server. 
--You can look for me on the discord of our valheim server, my name is Azathoth or as Hershel the farmer on OdinPLus.
--Suggestions for rebalancing weapons as well as adding new Japanese themed weapons are welcome.
-*It is recommended to use with golden jude Blacksmiths tools to have a correct visualization of the armors*.
+
+* The weapons are balanced in a progression sense; however, I still haven’t managed to create a proper config file for everyone to tweak them to their liking.
+* This is my first mod, so it might have a few bugs :c. I’m still learning as I go.
+* It’s part of a bigger mod that will add a ton of themed weapons for use on the Chaos Heim server.
+* You can find me on our Valheim server's Discord. My name is Azathoth or Hershel the farmer in OdinPlus.
+* Feel free to send suggestions for balancing the weapons, as well as adding more Japanese-themed ones.
+* It’s recommended to use this alongside Golden Jude’s Blacksmith Tools for proper armor visuals.
  
 ## Credits
 * First of all, this would not be possible without the help of my great mentor Valkyrie or quantumperception creator of great mods, I can't thank you enough for all the time you took to answer my many doubts and questions, no matter how stupid they were.
