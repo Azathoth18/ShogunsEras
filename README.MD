@@ -5,7 +5,7 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, among o
 -It's part of a bigger mod that will add a lot of theme weapons to be used in the Chaos Heim server. 
 -You can look for me on the discord of our valheim server, my name is Azathoth or as Hershel the farmer on OdinPLus.
 -Suggestions for rebalancing weapons as well as adding new Japanese themed weapons are welcome.
-
+*It is recommended to use with golden jude Blacksmiths tools to have a correct visualization of the armors*.
  
 ## Credits
 * First of all, this would not be possible without the help of my great mentor Valkyrie or quantumperception creator of great mods, I can't thank you enough for all the time you took to answer my many doubts and questions, no matter how stupid they were.
@@ -49,10 +49,15 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, among o
  ![WEAPONS](https://i.imgur.com/XeXGyLh.png)
 
  ![WEAPONS](https://i.imgur.com/RHeahf7.png)
+ ![WEAPONS](https://i.imgur.com/NYuNsXu.png)
+ ![WEAPONS](https://i.imgur.com/gdfyhx8.png)
 
  ![Armour](https://i.imgur.com/QHlapY7.png)
  ![Armour](https://i.imgur.com/bX7dllS.png)
  ![Armour](https://i.imgur.com/8GWSEkc.png)
+ ![Armour](https://i.imgur.com/RelgRVN.png)
+
+
 
 
 **--WEAPON PREFABS--**
