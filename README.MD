@@ -20,9 +20,9 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, armours
 [![discord logo](https://i.imgur.com/uE6umQE.png)](https://discord.gg/Mj9y2w6w2B)
 
 ## Translations
--Spanish 100 %
--English IA 
--German IA
+* Spanish 100 %
+* English IA 
+* German IA
 
 ## Configuration
 -I am still learning to provide a more convenient configuration option, for the moment I recommend using * [WackyDatabase](https://valheim.thunderstore.io/package/WackyMole/WackysDatabase/) to generate your own configurations.
@@ -42,7 +42,7 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, armours
       - Farm 10 ninja scrolls to summon the ninja boss (Mountains).  
       - Farm 10 monks to face the sect leader (Mistlands).  
       - Farm 10 samurais to challenge the Ronin (Ashlands).  
-      - Each boss will drop a part of the "Ultimate Katana" in the mod.  
+      - Each boss will drop a part of the "Shinken Kurogane" in the mod.  
       
     </details>
 </details>
@@ -79,70 +79,78 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, armours
 
 </details>
 
+## All Prefabs
 
-**--WEAPON PREFABS--**
-```
-Bokken------SER_Bokken
-Bō------------SER_BO
-Shinai--------SER_Shinai
-Katana ------SER_Katana1
-Nagatina----SER_NAGATINA
-Ninjato------SER_NINJATO
-Tanto--------SER_TantoKnife
-Shakujo-----SER_Shakujo
-Kamayari----SER_Kamayari
-Kanobo------SER_Kanobo
-Katana2------SER_Katana2
-Katana dorada----SER_KatanaDefuego1
-Katana Valkye----SER_KATANAVALKYRIE
-Sai-------------SER_SAI
-Katana de las nubes-------SER_KatanadelCielo
-Katana Sakura-------SER_katana3
-Katana de un gigante------SER_gigantekatana
-Katana negra-------SER_KatanaDefuego
-Katana Yuki-onna ------ SER_Katanadehielo
-Bebedora de sangre--------SER_KatanaMurasama1
-Katana Musashi----------SER_katanamusashi
+<details>
+  <summary>**--WEAPON PREFABS--**</summary>
 
-**Nuevas**
+  Bokken ------ SER_Bokken  
+  Bō ----------- SER_BO  
+  Shinai ------- SER_Shinai  
+  Katana ------- SER_Katana1  
+  Nagatina ----- SER_NAGATINA  
+  Ninjato ------- SER_NINJATO  
+  Tanto -------- SER_TantoKnife  
+  Shakujo ----- SER_Shakujo  
+  Kamayari ----- SER_Kamayari  
+  Kanobo ------- SER_Kanobo  
+  Katana2 ------ SER_Katana2  
+  Golden Katana ----- SER_KatanaDefuego1  
+  Valkyrie Katana ----- SER_KATANAVALKYRIE  
+  Sai --------- SER_SAI  
+  Cloud Katana ------- SER_KatanadelCielo  
+  Sakura Katana ------- SER_katana3  
+  Giant Katana ------ SER_gigantekatana  
+  Black Katana ------- SER_KatanaDefuego  
+  Yuki-onna Katana ----- SER_Katanadehielo  
+  Blood Drinker ----- SER_KatanaMurasama1  
+  Musashi Katana ------- SER_katanamusashi  
 
-Shinken Kurogane-----------SER_ShinkenKurogane
-Ryūsei Kurogane------------SER_RyuseiKurogane
-Ikazuchi Ryūsei------------SER_IkazuchiRyusei
-Shizen Ryūsei-------------SER_ShizenRyusei
-Chishio Ryūsei------------SER_ChishioRyusei
-Ryuusei no Kanabō--------SER_RyuuseinoKanobo
-Chi no Kanobō--------------SER_ChinoKanobo
-Inazuma no Kanobō---------SER_InazumanoKanobo
-Kigen no Kanobō-----------SER_KigennoKanobo
+**New**
 
-```
+  Shinken Kurogane ------- SER_ShinkenKurogane  
+  Ryūsei Kurogane -------- SER_RyuseiKurogane  
+  Ikazuchi Ryūsei -------- SER_IkazuchiRyusei  
+  Shizen Ryūsei ----------- SER_ShizenRyusei  
+  Chishio Ryūsei --------- SER_ChishioRyusei  
+  Ryūsei no Kanabō ------ SER_RyuuseinoKanobo  
+  Chi no Kanobō -------- SER_ChinoKanobo  
+  Inazuma no Kanobō ----- SER_InazumanoKanobo  
+  Kigen no Kanobō ------ SER_KigennoKanobo  
 
-**--HELMET PREFABS--**
-```
-Casco samurai negro con plateado------- SER_CiberHat
-Hannya------------- SER_HannyaMask
-Jingasa-------------SER_HatJingasa 
-Mempo --------SER_MempoMask 
-Casco Samurai negro con correas----SER_SamuraiHelmetKabuto 
-Casco Kabuto -----SER_SamuraiKabuto 
-Casco Samurai rojo con negro----------SER_SamuraiKabuto1 
-Kabuto Samurai---------SER_SamuraiKabutoBlack 
-Kabuto con astas-------SER_SamuraiKabutomabizashi 
-Tengou ------SER_TengouMask
-Komuso -----SER_Komuso
-Caso Samurai con pelo -----------SER_CascoSamuraiConpelo
-Sabio Shifu---------SER_sabioshifu
-Kabuto negro------KabutoBlack
-Kabuto Rojo-------KabutoRed
-```
-**--Armour PREFABS--**
-```
- Suneate Rojo-----SuneateRed
- Suneate Negro-----Suneate
- Yoroi Negro------YoroiBlack
- Yoroi Rojo-------YoroiRed 
-```
+</details>
+
+<details>
+  <summary>**--HELMET PREFABS--**</summary>
+
+  Samurai Black with Silver Helmet ------- SER_CiberHat  
+  Hannya Mask ----------- SER_HannyaMask  
+  Jingasa --------- SER_HatJingasa  
+  Mempo -------- SER_MempoMask  
+  Samurai Helmet with Straps ---- SER_SamuraiHelmetKabuto  
+  Kabuto Helmet ----- SER_SamuraiKabuto  
+  Red Samurai Helmet with Black ----- SER_SamuraiKabuto1  
+  Black Samurai Kabuto --------- SER_SamuraiKabutoBlack  
+  Samurai Kabuto with Horns ------- SER_SamuraiKabutomabizashi  
+  Tengou Mask ------ SER_TengouMask  
+  Komuso Mask ----- SER_Komuso  
+  Samurai Helmet with Hair ----------- SER_CascoSamuraiConpelo  
+  Wise Shifu Helmet -------- SER_sabioshifu  
+  Black Kabuto ------- KabutoBlack  
+  Red Kabuto ------- KabutoRed  
+
+</details>
+
+<details>
+  <summary>**--ARMOUR PREFABS--**</summary>
+
+  Red Suneate ----- SuneateRed  
+  Black Suneate ----- Suneate  
+  Black Yoroi ----- YoroiBlack  
+  Red Yoroi ----- YoroiRed  
+
+</details>
+
 
 ## Cambios
 
@@ -191,4 +199,50 @@ Kabuto Rojo-------KabutoRed
 
 </details>
 
+## Changelog
+
+<details>
+  <summary>1.0.5</summary>
+
+  - The recipes for several weapons were modified to have a maximum of 4 requirements, except for the last weapon in the mod.  
+  - A "samurai" mob was added, which spawns in the Plains and Dark Forest, designed for future functionalities.  
+  - Armor sets designed for Ashlands were added, "Shogun Armor". However, the configuration and reorganization by era of all helmets and armor are still pending, as well as the creation of effects.  
+
+</details>
+
+<details>
+  <summary>1.0.4</summary>
+
+  - 1 ninja armor, 2 masks and helmets, 5 katanas (Ashland tier), 4 kanobos (Ashland tier) were added.  
+  - Crafting requirements for some weapons were changed (relocated to the forge).  
+  - 1 Ronin armor and 1 Hakama armor were added.  
+  - Still need to configure and assign a tier with a sense of progression to the armors.  
+
+</details>
+
+<details>
+  <summary>1.0.3</summary>
+
+  - English translations were added and the Spanish ones were corrected.  
+  - 4 new helmets and 2 armors were added (without assigned era, damage, or description).  
+
+</details>
+
+<details>
+  <summary>1.0.2</summary>
+
+  - Updated for Ashlands.  
+  - Language settings were added; English and German (credits to Blubbson).  
+  - Some visual effects were added to the weapons.  
+
+</details>
+
+<details>
+  <summary>1.0.1</summary>
+
+  - Katana recipes were added with a sense of progression and corresponding damage.  
+  - Oriental themed helmets and masks were added.  
+  - The prefabs of each weapon and mask were updated.  
+
+</details>
 
