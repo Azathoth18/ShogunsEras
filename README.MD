@@ -32,7 +32,7 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, armours
   <summary>Roadmap:</summary>
   
   * Working on implementing bows and throwing weapons, such as kunais and shurikens.  
-  * Elaborating a progressive balance for weapons, as well as their damage and the resources they require.  
+  * ~~Elaborating a progressive balance for weapons, as well as their damage and the resources they require.~~  
   * Configuring helmets by era.  
   * Adding more armors with their respective recipes, resistances, and effects.  
   * **Add some mobs:**  
@@ -82,7 +82,7 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, armours
 ## All Prefabs
 
 <details>
-  <summary>**--WEAPON PREFABS--**</summary>
+  <summary>**WEAPON PREFABS**</summary>
 
   Bokken ------ SER_Bokken  
   Bō ----------- SER_BO  
@@ -121,7 +121,7 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, armours
 </details>
 
 <details>
-  <summary>**--HELMET PREFABS--**</summary>
+  <summary>**HELMET PREFABS**</summary>
 
   Samurai Black with Silver Helmet ------- SER_CiberHat  
   Hannya Mask ----------- SER_HannyaMask  
@@ -142,7 +142,7 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, armours
 </details>
 
 <details>
-  <summary>**--ARMOUR PREFABS--**</summary>
+  <summary>**ARMOUR PREFABS**</summary>
 
   Red Suneate ----- SuneateRed  
   Black Suneate ----- Suneate  
