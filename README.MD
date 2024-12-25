@@ -29,7 +29,7 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, armours
 * German IA
 
 ## Configuration
-
+<details>
 This mod includes a customizable configuration file for each weapon, armor, and mob. Below are the available options for customization:
 
 ### Armors
@@ -58,7 +58,7 @@ You can configure:
 ### Recommendations
 1. **Delete the old configuration file**: To ensure new options work correctly, delete the previous configuration file and let the mod generate a new one upon startup.
 2. **Backup your settings**: Before updating the mod, create a backup of your custom configurations so they can be easily imported into the new version.
-
+</details>
 ## Currently in-progress
 <details>
   <summary>Roadmap:</summary>
@@ -193,6 +193,8 @@ You can configure:
 
 
 ## Cambios
+
+<details>
   <summary>1.0.6</summary>
 
   - Se agregaro nuevas mesas de crafteo 2 con sus correpondientes extensiones
