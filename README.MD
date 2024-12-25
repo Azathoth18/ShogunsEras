@@ -115,7 +115,7 @@ You can configure:
 
   ![Forje](https://i.imgur.com/1hFXvRf.png)
   ![BlackForje](https://i.imgur.com/VYCPS8h.png)
-  ![Ronnin](https://imgur.com/ctSX9l7)
+  ![Ronnin](https://i.imgur.com/ctSX9l7.png)
 
 </details>
 
