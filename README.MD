@@ -9,12 +9,16 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, armours
 * It’s recommended to use this alongside Golden Jude’s Blacksmith Tools for proper armor visuals.
  
 ## Credits
-* First of all, this would not be possible without the help of my great mentor Valkyrie or quantumperception creator of great mods, I can't thank you enough for all the time you took to answer my many doubts and questions, no matter how stupid they were.
-* Also thanks to Midnightsfx creator of valheim armory and Valheim Fortres, for answering all my stupid and continuous questions at any time and supporting me at times when I wanted to throw it all away.
-* Thanks to Metra, my partner and I feel him as a great friend I have met in the world of valheim, the best pvp player and balance genius of valheim.
-* Thanks to Ono,Niu (Thanks for icon) geniuses of building in valheim, for their support
-* Also to my girlfriend, for putting up with my moments of obsession with the game and the desire to learn more and more.
-* Finally my thanks may seem exaggerated, but it's really something I've been wanting to learn for a long time and if it wasn't for these people none of this would be possible. 
+* First of all, this would not be possible without the help of my great mentor Valkyrie or quantumperception, creator of great mods. I can't thank you enough for all the time you took to answer my many doubts and questions, no matter how stupid they were.
+* Also thanks to Midnightsfx, creator of Valheim Armory and Valheim Fortress, for answering all my stupid and continuous questions at any time and supporting me at times when I wanted to throw it all away.
+* Thanks to Metra, my partner and someone I feel is a great friend I’ve met in the world of Valheim, the best PvP player and balance genius of Valheim.
+* Thanks to Ono and Niu (thanks for the icon!), geniuses of building in Valheim, for their support.
+* Thanks to Hugo the Dwarf for guiding me with armors and answering my questions.
+* Thanks to coemt for teaching me how to add new mobs.
+* Thanks to Cookie Milk for helping me with the animator and answering my many questions.
+* Thanks to Ashenius for your advice and opinions on certain aspects of the mod.
+* Also to my girlfriend, for putting up with my moments of obsession with the game and my desire to learn more and more.
+* Finally, my thanks may seem exaggerated, but it's really something I've been wanting to learn for a long time, and if it wasn't for these people, none of this would be possible.
 
 
 [![discord logo](https://i.imgur.com/uE6umQE.png)](https://discord.gg/Mj9y2w6w2B)
@@ -25,7 +29,35 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, armours
 * German IA
 
 ## Configuration
--I am still learning to provide a more convenient configuration option, for the moment I recommend using * [WackyDatabase](https://valheim.thunderstore.io/package/WackyMole/WackysDatabase/) to generate your own configurations.
+
+This mod includes a customizable configuration file for each weapon, armor, and mob. Below are the available options for customization:
+
+### Armors
+You can configure:
+- **Recipes**: Ingredients required for crafting.
+- **Durability**: The item's wear rate or longevity.
+- **Resistances**: Whether the armor resists heat, cold, etc.
+- **Armor Value**: The base defense provided.
+- **Armor Progression**: The increase in defense per level.
+
+### Weapons
+You can configure:
+- **Recipes**: Ingredients required for crafting.
+- **Damage**: The weapon's base damage.
+- **Damage Type**: Physical, elemental, etc.
+- **Crafting Table**: The station required for crafting.
+
+### Mobs
+You can configure:
+- **Loot**: Items dropped upon defeat.
+- **Biome**: The biome where they spawn.
+- **Spawn Probability**: The frequency of their appearance.
+- **Damage**: The damage they inflict.
+- **Health**: Their base health.
+
+### Recommendations
+1. **Delete the old configuration file**: To ensure new options work correctly, delete the previous configuration file and let the mod generate a new one upon startup.
+2. **Backup your settings**: Before updating the mod, create a backup of your custom configurations so they can be easily imported into the new version.
 
 ## Currently in-progress
 <details>
@@ -76,6 +108,14 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, armours
   ![Armour](https://i.imgur.com/bX7dllS.png)  
   ![Armour](https://i.imgur.com/8GWSEkc.png)  
   ![Armour](https://i.imgur.com/RelgRVN.png)
+</details>
+
+<details>
+  <summary>VERSION 1.0.6</summary>
+
+  ![Forje](https://i.imgur.com/1hFXvRf.png)
+  ![BlackForje](https://i.imgur.com/VYCPS8h.png)
+  ![Ronnin](https://imgur.com/ctSX9l7)
 
 </details>
 
@@ -153,6 +193,14 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, armours
 
 
 ## Cambios
+  <summary>1.0.6</summary>
+
+  - Se agregaro nuevas mesas de crafteo 2 con sus correpondientes extensiones
+  - La mayoria de las armas,cascos y armaduras se movieron a estas nuevas mesas
+  - Se logró crear un archivo de cfg personalizable
+  - Samurai y Ronnin movidos a Ashland, bajando su probabilidad de aparicion (¿Te através a desafiarlos?)
+
+</details>
 
 <details>
   <summary>1.0.5</summary>
@@ -202,6 +250,16 @@ A mod about japanese weapons, there are katanas, daggers, maces, spears, armours
 ## Changelog
 
 <details>
+
+<summary>1.0.6</summary>
+
+- Two new crafting tables were added along with their respective extensions.  
+- Most weapons, helmets, and armors have been moved to these new crafting tables.  
+- A customizable configuration (cfg) file has been implemented.  
+- Samurai and Ronin have been moved to Ashlands, reducing their spawn probability (Do you dare to challenge them?)  
+
+</details>
+
   <summary>1.0.5</summary>
 
   - The recipes for several weapons were modified to have a maximum of 4 requirements, except for the last weapon in the mod.  
