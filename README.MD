@@ -1,18 +1,43 @@
 # RunesTeleportGodes
-Un mod que te permite teletraportarte desde cualquier ubicacion a tu cama si es que esta definida o al punto de respawn muy modficable
-- En total son 7 Runas que representan cada bioma 
-- La primera runa solo te permite transportar cualquier elemento que no este marcado como no teletransportable
-- Desde la segunda runa en adelante te permite teletransportar elementos que esten marcados como no teletransportables, por ejemplo la Runa de bosque oscuro te permite transportar cobre,bronce, etc, la runa de pantano te permite transportar lo atenrior pero ahora con hierro y así sucecivamente 
-- Cada runa tiene su propio tiempo de enfriamiento siguiendo una logica de 3 minutos, 5 minutos, 8 minutos, 10 minutos, 13 minutos, 15 minutos y 20 minutos
-- La forma de obtener las runas es a través de 2 metodos, una a través del crafting y la segunda a través de la caida del loot de los jefes de los biomas, puedes elegir cual opcion tomar a través del cfg
-- Puedes modificar además através del cfg el tiempo de enfrimianto de las runas, los materiales permitidos, si es crafteable  puedes definir la mesa de crafteo el nivel de la mesa o si son looteables de los jefes de biomas, puedes definir la cantidad y la probabilidad de caida 
+
+A mod that allows you to teleport from any location to your bed if it's defined, or to the respawn point. Highly customizable.
+
+
+![Banner](https://www.dropbox.com/scl/fi/56mrudsldnbt3tfp9jdhz/Valheim-2025.01.16-17.06.29.01.mp4?rlkey=adwpbborkvo1yqwg4nc6uxo8s&st=locgmsti&dl=0)
+
+
+- **Total of 7 Runes Representing Each Biome**
+- **First Rune:**
+  - Only allows you to transport any item that is not marked as non-teleportable.
+- **From the Second Rune Onwards:**
+  - Allows you to teleport items that are marked as non-teleportable. 
+  - For example, the **Dark Forest Rune** allows you to transport copper, bronze, etc., while the **Swamp Rune** allows you to transport previously allowed items along with iron, and so on.
+- **Cooldown Times:**
+  - Each rune has its own cooldown time following the logic of **3 minutes, 5 minutes, 8 minutes, 10 minutes, 13 minutes, 15 minutes,** and **20 minutes** respectively.
+- **Obtaining Runes:**
+  - **Two Methods:**
+    1. **Crafting:** Create runes using specific materials.
+    2. **Loot Drops:** Runes can drop from biome bosses.
+  - You can choose which option to enable through the configuration (`cfg`).
+- **Customization via Configuration (`cfg`):**
+  - **Cooldown Time:** Modify the cooldown duration of each rune.
+- **Weight:** Modify the weight in the inventory of each rune.
+  - **Allowed Materials:** Define which materials can be teleported.
+  - **Crafting Options:**
+    - **Craftable:** Enable or disable crafting of runes.
+    - **Craftable:** Recipes from runes.
+    - **Crafting Station:** Specify the crafting station required and its level.
+  - **Loot Options:**
+    - **Lootable from Biome Bosses:** Enable or disable runes dropping from bosses.
+    - **Quantity & Drop Probability:** Define the amount and likelihood of runes dropping from bosses.
+
 ---
 
 ## Credits
 - Thanks to **Midnightsfx**, creator of Valheim Armory and Valheim Fortress, for answering countless questions and encouraging me during tough times.
-- Thanks to **Niu** (for the icon!).
-- Thanks to **Ashenius** por ayudarme a testear y con diversos comentarios para ir mejorando la funcionalidad del mod, pueden ir a su gran servidor de valheim [![Discord Logo](https://i.imgur.com/uE6umQE.png)](https://discord.gg/kp8qXjdFpg). 
-- Thanks to **Blubbson** por ayudarme a testear y con diversos comentarios para ir mejorando la funcionalidad del mod,  pueden ir a su gran servidor de valheim .
+- Thanks to **Niu** for the all icons!.
+- Thanks to **Ashenius** for helping me test and with various comments to improve the functionality of the mod
+- Thanks to **Blubbson** for helping me test and with various comments to improve the functionality of the mod, you can go to your great Valheim server[![Discord Logo](https://i.imgur.com/uE6umQE.png)](https://discord.gg/TQ5E6yqmGV). 
 - Special thanks to everyone for helping make this project a reality.
 
 [![Discord Logo](https://i.imgur.com/uE6umQE.png)](https://discord.gg/Mj9y2w6w2B)
@@ -23,7 +48,7 @@ Un mod que te permite teletraportarte desde cualquier ubicacion a tu cama si es 
 - **Spanish:** 100%
 - **English:** 100%
 - **German:** 100%
-- *Russian* 100%
+- **Russian:** 100%
 ---
 
 ## Changelog
