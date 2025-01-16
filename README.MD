@@ -17,7 +17,7 @@ A mod that allows you to teleport from any location to your bed if it's defined,
   - You can choose which option to enable through the configuration (`cfg`).
 - **Customization via Configuration (`cfg`):**
   - **Cooldown Time:** Modify the cooldown duration of each rune.
-- **Weight:** Modify the weight in the inventory of each rune.
+  - **Weight:** Modify the weight in the inventory of each rune.
   - **Allowed Materials:** Define which materials can be teleported.
   - **Crafting Options:**
     - **Craftable:** Enable or disable crafting of runes.
