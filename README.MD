@@ -37,7 +37,18 @@ A mod that allows you to teleport from any location to your bed if it's defined,
 - Special thanks to everyone for helping make this project a reality.
 
 "If you want to leave a comment, stop by to say hi, or anything else, you can visit me on my Discord where I post some updates and show the progress of the mods I'm currently working on."  [![Discord Logo](https://i.imgur.com/uE6umQE.png)](https://discord.gg/Mj9y2w6w2B)
+---
 
+## Prefabs
+<details>
+- Runet1
+- Runet2
+- Runet3
+- Runet4
+- Runet5
+- Runet6
+- Runet7
+</details>
 ---
 
 ## Translations
