@@ -2,10 +2,6 @@
 
 A mod that allows you to teleport from any location to your bed if it's defined, or to the respawn point. Highly customizable.
 
-
-![Banner](https://www.dropbox.com/scl/fi/56mrudsldnbt3tfp9jdhz/Valheim-2025.01.16-17.06.29.01.mp4?rlkey=adwpbborkvo1yqwg4nc6uxo8s&st=locgmsti&dl=0)
-
-
 - **Total of 7 Runes Representing Each Biome**
 - **First Rune:**
   - Only allows you to transport any item that is not marked as non-teleportable.
