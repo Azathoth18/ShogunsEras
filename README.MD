@@ -36,7 +36,7 @@ A mod that allows you to teleport from any location to your bed if it's defined,
 - Thanks to **Blubbson** for helping me test and with various comments to improve the functionality of the mod, you can go to your great Valheim server[![Discord Logo](https://i.imgur.com/uE6umQE.png)](https://discord.gg/TQ5E6yqmGV). 
 - Special thanks to everyone for helping make this project a reality.
 
-[![Discord Logo](https://i.imgur.com/uE6umQE.png)](https://discord.gg/Mj9y2w6w2B)
+"If you want to leave a comment, stop by to say hi, or anything else, you can visit me on my Discord where I post some updates and show the progress of the mods I'm currently working on."  [![Discord Logo](https://i.imgur.com/uE6umQE.png)](https://discord.gg/Mj9y2w6w2B)
 
 ---
 
