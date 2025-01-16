@@ -41,13 +41,13 @@ A mod that allows you to teleport from any location to your bed if it's defined,
 
 ## Prefabs
 <details>
-- Runet1
-- Runet2
-- Runet3
-- Runet4
-- Runet5
-- Runet6
-- Runet7
+- RunaT1
+- RunaT2
+- RunaT3
+- RunaT4
+- RunaT5
+- RunaT6
+- RunaT7
 </details>
 ---
 
