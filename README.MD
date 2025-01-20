@@ -2,6 +2,8 @@
 
 A mod that allows you to teleport from any location to your bed if it's defined, or to the respawn point. Highly customizable.
 
+![Banner](https://imgur.com/gallery/teleport-m6Jtv29) 
+
 - **Total of 7 Runes Representing Each Biome**
 - **First Rune:**
   - Only allows you to transport any item that is not marked as non-teleportable.
