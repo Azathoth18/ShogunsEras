@@ -60,12 +60,11 @@ A mod that allows you to teleport from any location to your bed if it's defined,
 
 ## Changelog
 <details>
-<details>
 <summary>0.0.1</summary>
 
 - First Release
 </details>
-</details>
+
 
 ## Donations
 <details>
