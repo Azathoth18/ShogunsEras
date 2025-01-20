@@ -75,4 +75,4 @@ If you want to buy me a coffee you can do so at this link <3
 | My Ko-fi: | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/azathoth1414)|
 |-----------|---------------|
 
-<details>
+
