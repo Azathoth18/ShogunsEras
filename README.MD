@@ -68,10 +68,10 @@ A mod that allows you to teleport from any location to your bed if it's defined,
 </details>
 
 ## Donations
-<details>
+
 " <3"
 If you want to buy me a coffee you can do so at this link <3
 | My Ko-fi: | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/azathoth1414)|
 |-----------|---------------|
-</details>
+
 
